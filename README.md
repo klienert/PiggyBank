@@ -1,4 +1,4 @@
-#PiggyBank
+# PiggyBank
 
 CS300 (UW-Madison) Project #1 -- Piggy Bank
 
@@ -13,7 +13,7 @@ Defines mainly the following operations:
 
 Learning Objectives:
 
-practicing the use of control structures, custom static methods, and using arrays in methods.
-• practicing how to manage an unordered collection of data that may contain duplicates (multiple occurrences of the same element),
-• learning how to develop tests to demonstrate the functionality of code, and familiarizing yourself with CS300 grading tests.
+1) practicing the use of control structures, custom static methods, and using arrays in methods.
+2) practicing how to manage an unordered collection of data that may contain duplicates (multiple occurrences of the same element),
+3) learning how to develop tests to demonstrate the functionality of code, and familiarizing yourself with CS300 grading tests.
 
